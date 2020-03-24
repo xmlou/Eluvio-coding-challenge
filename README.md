@@ -24,3 +24,6 @@
    - Topic: 9, Words: 0.092*"kill" + 0.036*"attack" + 0.034*"bomb" + 0.023*"peopl" + 0.023*"polic" + 0.022*"dead" + 0.016*"citi" + 0.016*"suicid" + 0.013*"injur" + 0.012*"blast" 
    
      Topic 9 should be terrorist attacks.
+     
+3. As for the evolvement of topics, I only consider the news titles in 2016 for simplicity. This idea can also scale up to the entire dataset. The main procedure is to find the topics for each month and link similar topics for consecutive months. We say two topics are similar if the Hellinger distance between them is smaller than some pre-specified threshold. 
+    - There was a topic chain lasting about 4 months, starting in February and ending in June. This topic is mainly about Syrian refugee.
