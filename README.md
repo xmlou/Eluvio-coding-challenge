@@ -3,7 +3,7 @@
 ## The main problems I would like to address.
 
 * What are the topics in the news titles?
-* Because news is inherently sequential and temporal, I want to know how the topic evolve over time. In other words, what happended, when and how long did it last?
+* Because news is inherently sequential and temporal, I want to know how the topic evolve over time. In other words, what happened, when and how long did it last?
 
 ## What I did.
 
